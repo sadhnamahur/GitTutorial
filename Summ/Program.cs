@@ -10,7 +10,7 @@ namespace Summ
     {
         static void Main(string[] args)
         {
-            Console.Write("HI sadhna");
+            Console.Write("HI sadhna hi");
         }
     }
 }
